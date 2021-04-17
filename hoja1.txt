@@ -1,3 +1,5 @@
 Se ha empezado a escribir
 Estre es un ejemplo
+Basado en pequeñas experiencias
+con git, html y css
 xd :3
